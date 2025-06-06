@@ -1,8 +1,10 @@
 <h1 align="center">✨ Hello , I'm Khushi 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Engineering+Student+%7C+ML+%2B+Dev+Enthusiast;I+build+projects+with+purpose+and+heart;Trying+to+make+tech+more+real%2C+human%2C+and+useful.💙" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Engineering+Student+%7C+ML+%2B+Dev+Enthusiast;Building+projects+with+purpose+and+heart;Making+tech+real%2C+human%2C+and+useful" alt="Typing SVG" />
 </p>
+
+
 
 ---
 
@@ -57,8 +59,8 @@ Whether it's physics-inspired simulations, sustainability apps, or accessibility
 
 ### 🌻 Let's Connect
 
-📬 **Email**: [khushisimgh8317@gmail.com](mailto:khushisimgh8317@gmail.com)  
-💼 **LinkedIn**: [linkedin.com/in/khushiee](https://linkedin.com/in/khushiee)  
+📬 **Email**: [khushisimgh8317@gmail.com](mailto:khushisingh8317@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/khushiee](https://www.linkedin.com/in/khushi-singh-557317284/)  
 🌐 **Portfolio**: *Coming soon...* (Want help designing it? 😊)
 
 ---
@@ -67,19 +69,5 @@ Whether it's physics-inspired simulations, sustainability apps, or accessibility
 
 > *“I may be just one developer — but if my project brings clarity, solves a real problem, or makes one life easier… it's already a success.”*
 
----
 
-### ✨ How to Use
 
-- Name your repo: `mekhushi` (if that's your username)
-- Add this file as the `README.md` inside it
-- It’ll show up on your main GitHub profile like a banner 🌈
-
----
-
-Let me know if you'd like:
-- A **light mode version**
-- To embed **GIFs or live demo videos**
-- Help making a **portfolio website** or **Notion-based resume**
-
-You're building with heart, Khushiee. Keep going 💙
