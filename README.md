@@ -1,4 +1,4 @@
-<h1 align="center">✨ Namaste, I'm Khushiee 👩‍💻</h1>
+<h1 align="center">✨ Hello , I'm Khushi 👩‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Engineering+Student+%7C+ML+%2B+Dev+Enthusiast;I+build+projects+with+purpose+and+heart;Trying+to+make+tech+more+real%2C+human%2C+and+useful.💙" alt="Typing SVG" />
