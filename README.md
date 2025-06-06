@@ -10,7 +10,7 @@
 
 ### 🌸 About Me
 
-I'm Khushiee — a 2nd-year engineering student, passionate about building **real-world projects** that blend 💡 intelligence with 🎯 impact.  
+I'm Khushi singh a 2nd-year engineering student, passionate about building **real-world projects** that blend 💡 intelligence with 🎯 impact.  
 
 Whether it's physics-inspired simulations, sustainability apps, or accessibility tools — I love using **AI, ML, and code** to solve problems that matter.
 
