@@ -65,8 +65,6 @@ Whether it's physics-inspired simulations, sustainability apps, or accessibility
 
 ---
 
-### 💙 Little Personal Touch
-
 > *“I may be just one developer — but if my project brings clarity, solves a real problem, or makes one life easier… it's already a success.”*
 
 
