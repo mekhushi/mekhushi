@@ -24,12 +24,12 @@ Whether it's physics-inspired simulations, sustainability apps, or accessibility
 
 | 💡 Project | What It Does |
 |-----------|--------------|
-| 🎯 [**BallistiX**](https://github.com/mekhushi/ballistix) | AI + Physics simulator predicting projectile motion in real-time (PyTorch + Streamlit) |
-| 🌱 [**CarbonIQ**](https://github.com/mekhushi/carboniq) | Track your emissions, get eco-scores & gamified feedback |
+| 🎯 [**BallistiX**](https://github.com/mekhushi/BallistiX-) | AI + Physics simulator predicting projectile motion in real-time (PyTorch + Streamlit) |
+| 🌱 [**CarbonIQ**](https://github.com/mekhushi/CarbonIQ) | Track your emissions, get eco-scores & gamified feedback |
 | 🧠 [**PlagDetect**](https://github.com/mekhushi/plagdetect) | Low-level plagiarism checker written in C++ |
-| 👋 [**Sign2Code**](https://github.com/mekhushi/sign2code) | Converts hand gestures to Python code blocks — accessibility focused |
-| 🤲 [**AirCalc**](https://github.com/mekhushi/aircalc) | Contactless calculator using MediaPipe & PyAutoGUI |
-| 🔤 [**Synonym Finder**](https://github.com/mekhushi/synonym-finder) | NLP-powered synonym search with simple UI |
+| 👋 [**Sign2Code**](https://github.com/mekhushi/Sign2Code) | Converts hand gestures to Python code blocks — accessibility focused |
+| 🤲 [**AirCalc**](https://github.com/mekhushi/Aircalc) | Contactless calculator using MediaPipe & PyAutoGUI |
+| 🔤 [**Synonym Finder**](https://github.com/mekhushi/Synonym-Finder) | NLP-powered synonym search with simple UI |
 
 > 💬 All README.md files written by me — because I believe in clear, kind, and helpful documentation.
 
