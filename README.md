@@ -24,7 +24,7 @@ Whether it's physics-inspired simulations, sustainability apps, or accessibility
 
 | 💡 Project | What It Does |
 |-----------|--------------|
-| 🎯 [**BallistiX**](https://github.com/mekhushi/BallistiX-) | AI + Physics simulator predicting projectile motion in real-time (PyTorch + Streamlit) |
+| 🎯 [**BallistiX**](https://github.com/mekhushi/BallistX-) | AI + Physics simulator predicting projectile motion in real-time (PyTorch + Streamlit) |
 | 🌱 [**CarbonIQ**](https://github.com/mekhushi/CarbonIQ) | Track your emissions, get eco-scores & gamified feedback |
 | 🧠 [**PlagDetect**](https://github.com/mekhushi/plagdetect) | Low-level plagiarism checker written in C++ |
 | 👋 [**Sign2Code**](https://github.com/mekhushi/Sign2Code) | Converts hand gestures to Python code blocks — accessibility focused |
