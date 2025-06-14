@@ -59,7 +59,7 @@ Whether it's physics-inspired simulations, sustainability apps, or accessibility
 
 ### 🌻 Let's Connect
 
-📬 **Email**: [khushisimgh8317@gmail.com](mailto:khushisingh8317@gmail.com)  
+📬 **Email**: [khushisingh8317@gmail.com](mailto:khushisingh8317@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/khushiee](https://www.linkedin.com/in/khushi-singh-557317284/)  
 🌐 **Portfolio**: *Coming soon...* (Want help designing it? 😊)
 
