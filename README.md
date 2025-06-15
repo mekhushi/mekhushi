@@ -35,7 +35,7 @@ Whether it's physics-inspired simulations, sustainability apps, or accessibility
 
 ---
 
-### 🔧 Tools & Tech I Love
+### 🔧 Tools & Tech I Know:
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-E34A6F?style=for-the-badge&logo=pytorch)
