@@ -48,21 +48,10 @@ Whether it's physics-inspired simulations, sustainability apps, or accessibility
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mekhushi&show_icons=true&theme=calm&hide_title=true&rank_icon=percentile" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=mekhushi&theme=calm&hide_border=false" width="48%" />
-</p>
-
----
-
 ### 🌻 Let's Connect
 
 📬 **Email**: [khushisingh8317@gmail.com](mailto:khushisingh8317@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/khushiee](https://www.linkedin.com/in/khushi-singh-557317284/)  
-🌐 **Portfolio**: *Coming soon...* 
-
 ---
 
 > *“I may be just one developer — but if my project brings clarity, solves a real problem, or makes one life easier… it's already a success.”*
