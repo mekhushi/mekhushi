@@ -52,6 +52,7 @@ Whether it's physics-inspired simulations, sustainability apps, or accessibility
 
 📬 **Email**: [khushisingh8317@gmail.com](mailto:khushisingh8317@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/khushiee](https://www.linkedin.com/in/khushi-singh-557317284/)  
+
 ---
 
 > *“I may be just one developer — but if my project brings clarity, solves a real problem, or makes one life easier… it's already a success.”*
