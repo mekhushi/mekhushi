@@ -5,11 +5,8 @@
 
 <div align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mekhushi&theme=github_dark"
-    alt="GitHub Contribution Graph"
+    src="https://github.pumbas.net/api/contributions/mekhushi?colour=58A6FF&bgColour=0D1117&dotColour=FFFFFF"
     width="100%"
+    alt="Khushi's GitHub Contributions"
   />
 </div>
-
-
- 
